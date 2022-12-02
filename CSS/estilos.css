@@ -1,0 +1,292 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Comfortaa:wght@500&family=Mali:wght@700&display=swap');
+
+img{
+    height: 550px;
+}
+
+body{
+    background: rgb(0, 0, 0);
+    background-image: url(https://wallpaperaccess.com/full/6080477.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1500px;
+    height: 2550px;
+    font-family: 'Mali';
+    font-size: 80px;
+    text-align: center;
+} 
+
+#FAVICON{
+    height: 75px;
+    width: 75px;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+#CONTENEDOR{
+    background-color: rgb(15, 1, 48);  
+    font-family: 'Arvo';
+    font-size: 40px;
+    color: rgb(0, 255, 251);
+    width: 1296px;
+    height: 60px;
+}
+
+#ENCABEZADO{
+    width: 1296px;
+    height: 160px;
+    background: rgb(255, 255, 255);
+    font-size: 15px;
+    font-family: 'Mali';
+    text-align:center;
+    color: black;
+}
+
+#K{
+    width: 1290px;
+    height: 210px;
+    font-family: 'Comfortaa';
+    font-size: 30px;
+    color: #ffffff00;
+    text-align: left;
+    background-color: #1c2067c7;
+    transition: width 1s;
+}
+
+#K:hover{ 
+    width: 1150px;
+    font-size: 60px;
+    color: #ffffff;
+}
+
+#KOJOU{
+    width: 210px;
+    height: 210px;
+}
+
+#Tar{
+    width: 93px;
+    height: 120px;
+    position: absolute;
+    right: 100px;
+    top: 930px;
+}
+
+#Tar2{
+    width: 93px;
+    height: 115px;
+    position: absolute;
+    right: 100px;
+    top: 1160px;
+}
+
+#Tar3{
+    width: 90px;
+    height: 110px;
+    position: absolute;
+    right: 100px;
+    top: 1390px;
+}
+
+#Tar4{
+    width: 96px;
+    height: 121px;
+    position: absolute;
+    right: 100px;
+    top: 1610px;
+}
+
+#Tar5{
+    width: 100px;
+    height: 110px;
+    position: absolute;
+    right: 350px;
+    top: 1815px;
+}
+
+#Tar6{
+    width: 100px;
+    height: 105px;
+    position: absolute;
+    right: 350px;
+    top: 2040px;
+}
+
+#Tar7{
+    width: 98px;
+    height: 123px;
+    position: absolute;
+    right: 350px;
+    top: 2260px;
+}
+
+#G{
+    width: 1290px;
+    height: 230px;
+    text-align: left;
+    background-color: #35379ec7;
+    font-family: 'Comfortaa';
+    font-size: 30px;
+    color: #ffffff00;
+    transition: width 2s;
+}
+
+#G:hover{ 
+    width: 1150px;
+    font-size: 60px;
+    color: #ffffff;
+}
+
+#GOJO{
+    width: 210px;
+    height: 230px;
+}
+
+#L{
+    width: 1290px;
+    height: 230px;
+    text-align: left;
+    background-color: #6553B4c7;
+    font-family: 'Comfortaa';
+    font-size: 30px;
+    color: #ffffff00;
+    transition: width 2s;
+}
+
+#L:hover{ 
+    width: 1150px;
+    font-size: 60px;
+    color: #ffffff;
+}
+
+#LUKA{
+    width: 210px;
+    height: 230px;
+}
+
+#L2{
+    width: 1290px;
+    height: 210px;
+    text-align: left;
+    background-color:#A36BC5c7;
+    font-family: 'Comfortaa';
+    font-size: 30px;
+    color: #b200b800;
+    transition: width 2s;
+}
+
+#L2:hover{ 
+    width: 1150px;
+    font-size: 60px;
+    color: #ffffff;
+}
+
+#LELOUCH{
+    width: 210px;
+    height: 230px;
+}
+
+#H{
+    width: 1040px;
+    height: 210px;
+    text-align: left;
+    background-color: #DE90C3c7;
+    font-family: 'Comfortaa';
+    font-size: 30px;
+    color: #b200b800;
+    transition: width 2s;
+}
+
+#H:hover{ 
+    width: 900px;
+    font-size: 60px;
+    color: #ffffff;
+}
+
+#HAK{
+    width: 210px;
+    height: 220px;
+}
+
+#B{
+    width: 1040px;
+    height: 220px;
+    text-align: left;
+    background-color:#FFC1A4c7;
+    font-family: 'Comfortaa';
+    font-size: 30px;
+    color: #b200b800;
+    transition: width 2s;
+}
+
+#B:hover{ 
+    width: 900px;
+    font-size: 60px;
+    color: #ffffff;
+}
+
+#BENIMARU{
+    width: 210px;
+    height: 220px;
+}
+
+#R{
+    width: 1040px;
+    height: 240px;
+    text-align: left;
+    background-color:#FFF6C5c7;
+    font-family: 'Comfortaa';
+    font-size: 30px;
+    color: #b200b800;
+    transition: width 2s;
+}
+
+#R:hover{ 
+    width: 900px;
+    font-size: 60px;
+    color: #ffffff;
+}
+
+#RIN{
+    width: 210px;
+    height: 240px;
+}
+
+#BOX{
+    width: 170px;
+    height: 30px;
+    background: #b700ff;
+    font-size: 18px;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: absolute;
+    top: 1840px;
+    right: 30px;
+}
+
+#INFO{
+    width: 200px;
+    height: 580px;
+    text-align: left;
+    color: #00000000;
+    background: #3e013567;
+    font-size: 5px;
+    transition: width 2s; 
+    position: absolute;
+    top: 1870px;
+    right: 30px;
+}
+
+#INFO:hover{ 
+    width: 300px;
+    color: rgb(255, 255, 255);
+    font-size: 8px;
+    position: absolute;
+    top: 1870px;
+    right: 30px;
+    text-align: left;
+}
